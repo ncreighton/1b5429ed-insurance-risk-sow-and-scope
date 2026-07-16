@@ -1,2 +1,25 @@
-# 1b5429ed-insurance-risk-sow-and-scope
-Stop starting from a blank document every single time. Start professional results from day one.  Fully editable: every field, color, and section customizable. Ready to use immediately — open, fill in your details, done.  ## What's Included  - Insurance &amp; Risk Sow And Scope Document Generator — fully configured and ready to use - Fully editable: all
+# Insurance & Risk SOW and Scope Document Generator
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/fZu7sL3aL2k48FG33mcZM34)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/fZu7sL3aL2k48FG33mcZM34)
+
